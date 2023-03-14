@@ -1,4 +1,4 @@
-# Hello.
+# Hello
 
 I'm **Thomas** aka **vypxl**.
 
@@ -8,7 +8,7 @@ I like all things computer science.
 
 I'm studying Computer Science at [ETH Zürich](https://ethz.ch/).
 
-My proudest project is [The Scar Game Library](https://github.com/vypxl/scar), which is a game library written in [Crystal](https://crystal-lang.org).
+The projects I'm most proud of are [The tx8 fantasy console](https://github.com/vypxl/tx8) and [The Scar Game Library](https://github.com/vypxl/scar).
 
 Graphics programming is very cool.
 
